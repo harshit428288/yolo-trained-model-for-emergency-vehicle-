@@ -1,0 +1,1 @@
+# yolo-trained-model-for-emergency-vehicle-
